@@ -46,6 +46,11 @@ form div select {
   height: 32px;
   border-radius: 4px;
   border: 1px solid #d3d3d3;
+  padding: 15px;
+}
+
+form div select {
+  padding: 5px 10px;
 }
 
 form button {
